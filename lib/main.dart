@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:list_displayer/list_displayer.dart';
+
+import 'widget/list_displayer.dart';
 
 void main() {
   runApp(const MainDisplayer());
